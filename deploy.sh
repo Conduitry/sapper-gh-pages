@@ -1,6 +1,6 @@
 #!/bin/sh
 
-BASE_NAME=<your_path>
+BASE_NAME=sapper-gh-pages
 
 ROOT="$(git rev-parse --show-toplevel)"
 cd "$ROOT"
